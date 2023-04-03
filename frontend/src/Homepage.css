@@ -1,0 +1,15 @@
+body {
+    background-image: url('https://images.wallpaperscraft.com/image/single/foot_puddle_sneaker_200836_3840x2160.jpg');
+    background-size: cover;
+    opacity: 0;
+    animation: fade-in 2s forwards;
+  }
+  
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 9;
+    }
+  }
