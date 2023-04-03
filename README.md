@@ -8,7 +8,8 @@ Welcome to my Online Sneaker Application, a web application for browsing and sho
 
 ## Necessary links
 Deployment Link - null
-Github Source code - https://github.com/Lewis1Ndungu/Project-ph-4
+Github Source Code currently holding the project - https://github.com/Lewis1Ndungu/Shoe-palace
+Github Source code for repository I used while building - https://github.com/Lewis1Ndungu/Project-ph-4
 Google Slides for the presentation - https://docs.google.com/presentation/d/1QVun8_nq6EKggs1cyfFA5Uwmi5xdaUuxkh_k36JcoRA/edit#slide=id.gd5b15f0a3_5_26
 
 ## Installation
